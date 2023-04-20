@@ -1,4 +1,4 @@
-# Task 2 - Implementation of the OpenX JavaScript Engineer Recruitment Task
+<h1 align="center">Task 2 - Implementation of the OpenX JavaScript Engineer Recruitment Task</h1>
 
 ### Using data from links below:
 
