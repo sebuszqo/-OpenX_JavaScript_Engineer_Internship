@@ -29,7 +29,9 @@ All methods are implemented in the `utils/fakeStoreUtils.js` file:
 - ###### I am aware that normally such an implementation should be split into multiple files.
 - ###### For the purposes of the recruitment task, the entire implementation is in one file.
 
-### Run Locally to retrieve the expected results
+### Run Locally to retrieve the expected results:
+
+- Please make sure you have Node.js version 17.5 or higher installed to run this program.
 
 1. Clone the project
 
