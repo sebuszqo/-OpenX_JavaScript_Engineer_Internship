@@ -32,6 +32,7 @@ All methods are implemented in the `utils/fakeStoreUtils.js` file:
 ### Run Locally to retrieve the expected results:
 
 - Please make sure you have Node.js version 17.5 or higher installed to run this program.
+    You can check it: `node --version`
 
 1. Clone the project
 
